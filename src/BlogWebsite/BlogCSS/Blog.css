@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.ShortTitle{
+    width: 90%;
+}
+.ChannelName{
+    margin-bottom: -5px;
+}
+.carousel-control-prev-icon{
+    background-image: url('arrow-left-circle-fill.svg') !important;
+    margin-left: -280px;
+    background-color: white;
+}
+.carousel-control-next-icon{
+    background-image: url(arrow-right-circle-fill.svg) !important;
+    margin-right: -280px;
+    background-color: white;
+}
+marquee{
+    background-color: rgb(227, 253, 244);
+    padding: 10px 0;
+    font-size: 20px;
+}
+
